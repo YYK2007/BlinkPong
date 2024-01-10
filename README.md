@@ -4,4 +4,4 @@ The player will start with an initial score of 6 and need to move the paddle by 
 
 Whenever the player reaches the score of 6, the game terminates and loses the game. 
 
-The gameplay area is 400 by 400 pixels with a blue backgroudnd, orange pong ball, and a red paddle signifying the colors of a real ping pong table. 
+The gameplay area is 400 by 400 pixels with a blue background, orange pong ball, and a red paddle signifying the colors of a real ping pong table. 
